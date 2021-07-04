@@ -10,6 +10,7 @@ h1 span{
 }
 section{
     display: flex;
+    margin-bottom: 120px;
     
 }
 .half-width{
@@ -21,7 +22,7 @@ section{
     width: 90%;
 
 }
-.hire-me-button{
+.link-button{
     font-weight: 900;
     text-decoration: none;
     background-image: linear-gradient(yellow, red);
@@ -34,4 +35,9 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
