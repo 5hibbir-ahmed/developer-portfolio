@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+font-family: 'Work Sans', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+h1 span{
+    color:rgb(226, 173, 27);
+}
+section{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+
+}
+.half-width img{
+    width: 90%;
+
+}
+.hire-me-button{
+    font-weight: 900;
+    text-decoration: none;
+    background-image: linear-gradient(yellow, red);
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: darkgreen;
+
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
